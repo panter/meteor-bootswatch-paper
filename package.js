@@ -2,7 +2,7 @@ Package.describe({
   name: 'panter:bootswatch-paper',
   summary: 'Bootswach paper theme 3.3.1',
   version: '1.0.0',
-  git: 'https://github.com/panter/panter-bootswatch-paper'
+  git: 'https://github.com/panter/meteor-bootswatch-paper'
 });
 
 
